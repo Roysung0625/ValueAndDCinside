@@ -1,0 +1,11 @@
+## IGNORE FILE ##
+
+#ignore directory
+node_modules/
+
+#ignore extension
+*.out
+
+#single files
+package-lock.json
+Untitled.sql
